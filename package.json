@@ -1,0 +1,24 @@
+{
+  "name": "@stopism/shortreddit",
+  "version": "1.0.2",
+  "description": "The Reddit Url Shortner thats simple.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stopism/shortreddit.git"
+  },
+  "keywords": [
+    "reddit",
+    "url-shortner",
+    "url"
+  ],
+  "author": "NotMoni",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stopism/shortreddit/issues"
+  },
+  "homepage": "https://github.com/stopism/shortreddit#readme"
+}
